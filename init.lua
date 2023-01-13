@@ -1,0 +1,2 @@
+require('harish')
+print("lua")
